@@ -2,7 +2,7 @@
 -- PROJECT: Ireland Hospitality Sector SQL Analysis
 -- FILE:    04_recovery_trends.sql
 -- AUTHOR:  Cleiton Silva
--- DATE:    2025
+-- DATE:    2026
 -- =============================================================
 -- DESCRIPTION:
 --   Answers Business Question 2:

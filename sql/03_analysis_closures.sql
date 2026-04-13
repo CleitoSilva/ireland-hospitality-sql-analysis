@@ -2,7 +2,7 @@
 -- PROJECT: Ireland Hospitality Sector SQL Analysis
 -- FILE:    03_analysis_closures.sql
 -- AUTHOR:  Cleiton Silva
--- DATE:    2025
+-- DATE:    2026
 -- =============================================================
 -- DESCRIPTION:
 --   Answers Business Question 1 & 4:
