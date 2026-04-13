@@ -31,7 +31,7 @@ DB_CONFIG = {
     "port":     5432,
     "dbname":   "postgres",
     "user":     "postgres",
-    "password": "YOUR_PASSWORD_HERE"   # <-- change this
+    "password": "203040"  
 }
 
 RAW_DIR = os.path.join(os.path.dirname(__file__), "raw")

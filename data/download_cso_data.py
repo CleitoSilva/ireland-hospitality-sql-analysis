@@ -54,7 +54,7 @@ def download_table(table_code: str, description: str, output_filename: str) -> p
     print(f"  Downloading from CSO PxStat API...")
 
     try:
-        df = cso.get_dataframe(table_code)
+        df = cso.get_table(table_code)
         print(f"  Rows downloaded: {len(df):,}")
         print(f"  Columns: {list(df.columns)}")
 

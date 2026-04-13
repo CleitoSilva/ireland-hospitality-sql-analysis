@@ -10,5 +10,6 @@
             "database": "postgres",
             "username": "Cle2030#"
         }
-    ]
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:system"
 }
