@@ -1,0 +1,39 @@
+# Ireland Hospitality SQL Analysis 🇮🇪
+
+## 📊 Project Overview
+This project analyzes hospitality data in Ireland using SQL.  
+The goal is to extract insights about hotels, occupancy rates, pricing trends, and customer behavior.
+
+---
+
+## 🎯 Objectives
+- Analyze hotel performance
+- Identify seasonal trends
+- Explore pricing strategies
+- Understand customer patterns
+
+---
+
+## 🛠️ Tools Used
+- SQL (PostgreSQL / MySQL)
+- Git & GitHub
+
+---
+
+## 📂 Project Structuredata/
+raw/
+cleaned/
+sql/
+results/
+images/screenshots/
+---
+
+## 📈 Future Work
+- Add real datasets
+- Build dashboards (Power BI / Tableau)
+- Advanced SQL queries (joins, CTEs, window functions)
+
+---
+
+## 👤 Author
+Cleito Silva
