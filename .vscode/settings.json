@@ -8,7 +8,7 @@
             "driver": "PostgreSQL",
             "name": "ireland_hospitality",
             "database": "postgres",
-            "username": "Cle2030#"
+            "username": "postgres"
         }
     ],
     "python-envs.defaultEnvManager": "ms-python.python:system"
